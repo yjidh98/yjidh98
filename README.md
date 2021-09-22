@@ -15,12 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-i am a student at snust
-=================
+* email : happydldbwls@gmail.com
 
-studying computer engineering<br>
-
-
+studying computer engineering <br> at SNUST
 
 
 
